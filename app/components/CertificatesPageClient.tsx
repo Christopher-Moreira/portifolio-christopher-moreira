@@ -12,8 +12,8 @@ type CertificatesPageClientProps = {
 const translations = {
   pt: {
     contact: "Contato",
-    markAriaLabel: "Inicio",
-    navAriaLabel: "Navegacao principal",
+    markAriaLabel: "Início",
+    navAriaLabel: "Navegação principal",
     title: "Biblioteca de Certificados",
     certificateSingular: "certificado",
     certificatePlural: "certificados",

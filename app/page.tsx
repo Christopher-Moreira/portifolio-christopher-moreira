@@ -42,8 +42,8 @@ const skillItems = {
 const translations = {
   pt: {
     contact: "Contato",
-    markAriaLabel: "Inicio",
-    navAriaLabel: "Navegacao principal",
+    markAriaLabel: "Início",
+    navAriaLabel: "Navegação principal",
     nav: [
       { label: "Resumo", href: "/#resumo" },
       { label: "Techs", href: "/#techs" },
@@ -52,11 +52,11 @@ const translations = {
     ],
     heroAlt: "Retrato de Christopher Moreira",
     heroDescription:
-      "Engenheiro de Software com experiência em ERP, CRM, APIs REST, aplicacoes web e sistemas corporativos.",
+      "Engenheiro de Software com experiência em ERP, CRM, APIs REST, aplicações web e sistemas corporativos.",
     summaryLabel: "Resumo",
     summaryTitle: "Arquitetura e Engenharia de Software.",
     summary:
-      "Engenheiro de Software com experiencia no desenvolvimento e manutencao e arquitetura de sistemas corporativos, ERPs, CRM, aplicacoes web e APIs REST. Atuo conectando analise tecnica, regras de negocio, integracoes, modelagem de dados e melhoria de performance em ambientes corporativos.",
+      "Engenheiro de Software com experiência no desenvolvimento, manutenção e arquitetura de sistemas corporativos, ERPs, CRM, aplicações web e APIs REST. Atuo conectando análise técnica, regras de negócio, integrações, modelagem de dados e melhoria de performance em ambientes corporativos.",
     highlights: [
       "Desenvolvimento de soluções full stack para ambientes corporativos, unindo backend, frontend e regras de negócio.",
       "Melhoria de performance em sistemas reais, com redução de endpoints de aproximadamente 800 ms para 200 ms.",
@@ -76,7 +76,7 @@ const translations = {
         role: "Engenheiro de Software",
         company: "MercadoPhone · Tempo integral",
         period: "Maio 2026 - Atual",
-        location: "Sao Paulo, Brasil · Remoto",
+        location: "São Paulo, Brasil · Remoto",
         technologies:
           "React, TypeScript, JavaScript, PHP, Laravel, Adianti Framework, MySQL, APIs REST, Webhooks, Docker, Git, Cache, Integrações, IA Blue",
         summary:
@@ -147,15 +147,15 @@ const translations = {
       },
     ],
     education: {
-      label: "Educacao",
+      label: "Educação",
       degree: "Bacharelado em Engenharia de Software",
-      institution: "Universidade Norte do Parana (Unopar) | Concluida",
+      institution: "Universidade Norte do Paraná (Unopar) | Concluída",
     },
     languages: {
       label: "Idiomas",
       items: [
-        "Portugues nativo",
-        "Ingles tecnico / avancado",
+        "Português nativo",
+        "Inglês técnico / avançado",
         "Espanhol / Nativo",
         "Alemão / Básico",
       ],
@@ -197,7 +197,7 @@ const translations = {
         role: "Software Engineer",
         company: "MercadoPhone · Full-time",
         period: "May 2026 - Present",
-        location: "Sao Paulo, Brazil · Remote",
+        location: "São Paulo, Brazil · Remote",
         technologies:
           "React, TypeScript, JavaScript, PHP, Laravel, Adianti Framework, MySQL, REST APIs, Webhooks, Docker, Git, Cache, Integrations, IA Blue",
         summary:
@@ -270,7 +270,7 @@ const translations = {
     education: {
       label: "Education",
       degree: "Bachelor's Degree in Software Engineering",
-      institution: "Universidade Norte do Parana (Unopar) | Completed",
+      institution: "Universidade Norte do Paraná (Unopar) | Completed",
     },
     languages: {
       label: "Languages",

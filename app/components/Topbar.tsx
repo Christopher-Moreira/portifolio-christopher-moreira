@@ -26,8 +26,8 @@ const defaultNavItems = [
 export function Topbar({
   contactLabel = "Contato",
   language = "pt",
-  markAriaLabel = "Inicio",
-  navAriaLabel = "Navegacao principal",
+  markAriaLabel = "Início",
+  navAriaLabel = "Navegação principal",
   navItems = defaultNavItems,
   onLanguageChange,
 }: TopbarProps) {

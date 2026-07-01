@@ -14,12 +14,12 @@ type CertificateGroupPageClientProps = {
 const translations = {
   pt: {
     contact: "Contato",
-    markAriaLabel: "Inicio",
-    navAriaLabel: "Navegacao principal",
+    markAriaLabel: "Início",
+    navAriaLabel: "Navegação principal",
     backToGroups: "Voltar aos grupos",
     filesTitle: "Arquivos",
     noFilesTitle: "Sem arquivos",
-    noFilesDescription: "Esta pasta ainda nao possui certificados.",
+    noFilesDescription: "Esta pasta ainda não possui certificados.",
     openCertificate: "Abrir certificado",
     openImage: "Abrir imagem",
     nav: [
