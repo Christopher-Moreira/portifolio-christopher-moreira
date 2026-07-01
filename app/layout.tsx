@@ -17,6 +17,9 @@ export const metadata: Metadata = {
   title: "Christopher Moreira | Engenheiro de Software",
   description:
     "Curriculo de Christopher Moreira, engenheiro de software com experiencia em PHP, TypeScript, React, Laravel, Golang, MySQL e DevOps.",
+  icons: {
+    icon: "/web-app-manifest-512x512.png",
+  },
 };
 
 export default function RootLayout({
