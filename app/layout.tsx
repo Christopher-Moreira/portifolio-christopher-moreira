@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Nunito, Rubik_Dirt } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import "./globals.css";
 
 const nunito = Nunito({
@@ -32,7 +33,10 @@ export default function RootLayout({
       lang="pt-BR"
       className={`${nunito.variable} ${rubikDirt.variable} h-full antialiased`}
     >
-      <body className="min-h-full flex flex-col">{children}</body>
+      <body className="min-h-full flex flex-col">
+        {children}
+        <Analytics />
+      </body>
     </html>
   );
 }
