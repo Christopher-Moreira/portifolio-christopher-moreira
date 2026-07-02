@@ -52,7 +52,7 @@ const translations = {
     ],
     heroAlt: "Retrato de Christopher Moreira",
     heroDescription:
-      "Engenheiro de Software com experiência em ERP, CRM, APIs REST, aplicações web e sistemas corporativos.",
+      "Engenheiro de Software Full Stack focado no desenvolvimento de sistemas corporativos, ERPs, CRMs, APIs REST e aplicações web modernas. Atuo conectando backend, frontend, integrações e infraestrutura para criar soluções escaláveis, bem estruturadas e alinhadas às regras de negócio.",
     summaryLabel: "Resumo",
     summaryTitle: "Arquitetura e Engenharia de Software.",
     summary:
